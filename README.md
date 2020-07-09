@@ -1,7 +1,7 @@
 
 # Desafio Data Engineering com Spark
 Introdução
-A Numa empresa de empréstimos, há necessidade de construir modelos de behavior para entender melhor os nossos clientes. O time de data engineering prepara os dados para a equipe de data science. O objetivo do exercício é transformar os dados de entrada (raw data) em uma tabela de dados agregados, chamada loan_documents.
+Numa empresa de empréstimos, há necessidade de construir modelos de behavior para entender melhor os nossos clientes. O time de data engineering prepara os dados para a equipe de data science. O objetivo do exercício é transformar os dados de entrada (raw data) em uma tabela de dados agregados, chamada loan_documents.
 
 Raw data (input)
 Esses arquivos contêm dados parecidos com o que extraímos do nosso sistema:
